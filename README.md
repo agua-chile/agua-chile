@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @agua-chile
 - 👀 I’m interested in automation, AI, and web3.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning about R, React, and Node.js
 - 📫 Message me with any questions.
 
 <!---
