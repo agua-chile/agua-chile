@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @agua-chile
 - 👀 I’m interested in web development, automation and cryptography.
-- 🌱 I’m currently learning about React, Node.js, Java, Python, and cyryptography.
+- 🌱 I’m currently learning more about React, AI and cyryptography.
 - 📫 Message me with any questions.
 
 <!---
